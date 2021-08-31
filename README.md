@@ -11,11 +11,11 @@
 
 ## Tech Stack
 
--  The web application is built with Next.js and TypeScript and uses its built in Pages and API features with MongoDB to store blurb data.
+-  The web application is built with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/) and uses its built in Pages and API features with [MongoDB](https://www.mongodb.com/) to store blurb data.
 
-- Email/password and Google OAuth authentication is implemented with Passportjs and passwords are hashed with bcrypt
+- Email/password and Google OAuth authentication is implemented with [Passport.js](http://www.passportjs.org/) and passwords are hashed with [bcrypt](https://www.npmjs.com/package/bcrypt)
 
-- Application currently deployed privately on Vercel and connects to a MongoDB Atlas Cluster
+- Application currently deployed privately on Vercel and connects to a [MongoDB Atlas Cluster](https://www.mongodb.com/cloud/atlas)
 
 ## Future Plans
 
