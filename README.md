@@ -5,6 +5,10 @@
 - The user gets to view font pairings with the help of a landing page or a plain text viewer
     - Once a pairing(blurb) has been selected, the user can view it later in their dashboard
 
+![FontBlurbs Pic 1!](https://i.imgur.com/545PW8G.png)
+
+![FontBlurbs Pic 2!](https://i.imgur.com/mlgnE4r.png)
+
 ## Usage
 
 - The project is currently being converted from EJS to Next.js and will be released in the near future publicly online via Vercel!
@@ -15,7 +19,7 @@
 
 - Email/password and Google OAuth authentication is implemented with [Passport.js](http://www.passportjs.org/) and passwords are hashed with [bcrypt](https://www.npmjs.com/package/bcrypt)
 
-- Application currently deployed privately on Vercel and connects to a [MongoDB Atlas Cluster](https://www.mongodb.com/cloud/atlas)
+- Application currently deployed privately on [Vercel](https://vercel.com/) and connects to a [MongoDB Atlas Cluster](https://www.mongodb.com/cloud/atlas)
 
 ## Future Plans
 
